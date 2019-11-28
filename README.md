@@ -72,4 +72,4 @@ It has been keeping in mind to show the Email if Requested User has logged in us
 Make a POST request to the ENDPOINT<br/>
 
 
-<h2>Declaration - This application is intended for use by reciepent only. Any use in professional manner or to harm anyone or any organization doesn't relate to me and can be considered as illegal.</h2>
+<h2>Declaration - This application is intended for educational purposes only. Any use in professional manner or to harm anyone or any organization doesn't relate to me and can be considered as illegal.</h2>
